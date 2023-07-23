@@ -1,0 +1,11 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+What is a correct syntax to Output "Hello" in java?,console.log("Hello"),echo "Hello",print "Hello World",System.out.println("Hello World"),4
+Which of the following has highest memory requirement?,JVM,Stack,Heap,Class,1
+How to insert multi-line COMMENTS in Java code?,#Comment,/*Comment*/,<!--Comment--!>,//Comment,2
+What is data Type of the following? que = 'Apple',Boolean,Number,String,Float,3
+Which function is used to perform action when the object is to destroy?,main(),finalize(),delete(),None,2
+How to create a variable of numeric value 15?,float s = 15;,s = 15;,int s = 15;, num s = 15;,3
+Which allows the removal of elements from a collection?,Enumeration,Iterator,Maybe,None,2
+The Comparator interface contains the method?,compareWith,compareTo(),compare(),None of the above,3
+Which of those is synchronized?,TreeMap,HashMap,HashTable,All of the Above,3
+Garbage Collection can be controlled by program?,True,False,Maybe,Don't Know,2
